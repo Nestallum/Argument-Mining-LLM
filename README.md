@@ -19,7 +19,7 @@ Ce guide explique comment configurer l'environnement, installer les dépendances
 ### 1. Cloner le projet
 Commencez par cloner ce dépôt sur votre machine locale :
 ```bash
-git clone https://github.com/Nestallum/argument-mining-llm .git
+git clone https://github.com/Nestallum/argument-mining-llm.git
 cd ArgumentMatcher-NLP
 ```
 
