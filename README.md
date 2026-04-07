@@ -1,4 +1,4 @@
-# Projet ArgumentMatcher-NLP avec Hugging Face Hub
+# Projet argument-mining-llm avec Hugging Face Hub
 
 ## Introduction
 Ce projet vise à développer et comparer différents systèmes de mining d'arguments dans des textes en langage naturel, en utilisant des approches naïves, des modèles de langage large (LLM) et des techniques personnalisées.
@@ -19,7 +19,7 @@ Ce guide explique comment configurer l'environnement, installer les dépendances
 ### 1. Cloner le projet
 Commencez par cloner ce dépôt sur votre machine locale :
 ```bash
-git clone https://github.com/Nestallum/ArgumentMatcher-NLP.git
+git clone https://github.com/Nestallum/argument-mining-llm .git
 cd ArgumentMatcher-NLP
 ```
 
